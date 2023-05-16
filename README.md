@@ -1,5 +1,6 @@
 # How Data & AI can help detect Methane emissions
-**Centrale - Essec Tech Challenge with Quantum Black, AI by McKinsey**
+**Centrale - Essec Tech Challenge with Quantum Black, AI by McKinsey.**
+
 *4 days hackathon.*
 
 The dataset consists of 430 satellite images from SRON Netherlands Institute for Space Research available at https://earth.sron.nl/methane-emissions/ . The images were of size 64x64 in greyscale. 
